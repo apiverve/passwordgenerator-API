@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/passwordgenerator",
+  "version": "1.0.0",
+  "description": "Password Generator is a simple tool for generating passwords. It returns the generated password.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/passwordgenerator-API.git"
+  },
+  "keywords": [
+    "password generator"," password generation"," password generator api"," password generation api"," password generator tool"," password generation tool"," password generator software"," password generation software"," password generator service"," password generation service"," password generator library"," password generation library"," password generator sdk"," password generation sdk"," password generator code"," password generation code"," password generator script"," password generation script"," password generator program"," password generation program"," password generator application"," password generation application"," password generator app"," password generation app"," password generator utility"," password generation utility"," password generator helper"," password generation helper"," password generator helper tool"," password generation helper tool"," password generator helper software"," password generation helper software"," password generator helper service"," password generation helper service"," password generator helper library"," password generation helper library"," password generator helper sdk"," password generation helper sdk"," password generator helper code"," password generation helper code"," password generator helper script"," password generation helper script"," password generator helper program"," password generation helper program"," password generator helper application"," password generation helper application"," password generator helper app"," password generation helper app"," password generator helper tool"," password generation helper tool"," password generator helper utility"," password generation helper utility"," password generator helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/passwordgenerator-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/passwordgenerator-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
