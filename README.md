@@ -73,20 +73,20 @@ api.execute(query, function (error, data) {
   "status": "ok",
   "error": null,
   "data": {
-    "length": 30,
+    "length": "30",
     "count": 10,
     "complexity": "strong",
     "passwords": [
-      "YtkK-ka6AFjwABrkyeA8#T#=bR+fP6",
-      "XmRO.#ZEWIK.hq[r^Ho1H+^PoN&bD",
-      "vQxltLdsA[N[{Rn>2/Z%[[c&n5dGmO",
-      "D.n@9D:DC269@nkZGfKo*,<*k&X(H",
-      "VnU0/u/q|^h)K%8'1!Kk,;{!B9zT{",
-      "fH)&Ix;M53itO1AImKFRC$#tp}xC*e",
-      "e]?#yw'[=Z)d#,G-mr)'=oDGH2MUx}",
-      "yyw_3?{aNaXhHl2K6U7G#.0U4<3en",
-      "kI!nr2td$BaD,|ihbJNI0z-*-nEIL",
-      "<RV*twx@vn-z@%B{gt(mWGrX9Hj4em"
+      "VvLF-#sN^)X+cwsLG$L/0)DX76Z,d",
+      "*fNW3r6PN#a_HE1yTp8Yqliz&=67{",
+      "vxVU+(T-2X$FZaGw.1Tu4_paA!WPCf",
+      "Ic1YbV)Z@[Wbt=_FMo1*cwQ]j'Wl]",
+      "3i,qiyQbe6j{,9%^|OQd'Sh8_L6Xc",
+      "f&EH?eSJ8by=w}/4Z{yGvS'j+*wq^h",
+      "yW+_j1LBh]Bi#jVtkz';OGIaq+$9@",
+      "F-EXq0.S+Hz,HhfZUv&Na^j8sPfL)C",
+      "''(y:U0|s.4%$0f[ti_+lta6Zn':Q:",
+      "@tz]p11OC2TI?x3x]EjF8q;{fn.=(8"
     ]
   }
 }
